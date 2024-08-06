@@ -26,6 +26,6 @@ Mocha is used in combination with Chai for testing the app.
 
 ![Mocha & Chai](https://miro.medium.com/max/499/0*WpXBkrfgR2g9dw2T.png)
 
-## Authors
-Emediong Francis: emediongfrancis@gmail.com <br>
-Divine Chisom Ukonu: divinechisom1995@gmail.com
+## Authors:
+Moses Alipoe: alipoemoses646@gmail.com <br>
+Egbeonu Ifeoma
